@@ -43,7 +43,7 @@ private class GetModsResponse {
 
 private const val APIServer = "api.curseforge.com"
 // If you fork/derive from packwiz, I request that you obtain your own API key.
-private val APIKey = "JDJhJDEwJHNBWVhqblU1N0EzSmpzcmJYM3JVdk92UWk2NHBLS3BnQ2VpbGc1TUM1UGNKL0RYTmlGWWxh".decodeBase64()!!
+private val APIKey = "JDJhJDEwJGJMNGJJTDVwVVdxZmNPN0tRdG5NUmVha3d0ZkhiTktoNnYxdVRwS2x6aHdvdWVFSlFuUG5t".decodeBase64()!!
 	.string(StandardCharsets.UTF_8)
 
 @Throws(JsonSyntaxException::class, JsonIOException::class)
